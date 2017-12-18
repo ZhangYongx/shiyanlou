@@ -16,7 +16,7 @@ tags
 .pydevproject
 .coverage
 .metadata
-.idea
+.idea/*
 
 # setuptools
 cobbler.egg-info
